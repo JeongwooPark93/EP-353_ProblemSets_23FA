@@ -11,7 +11,8 @@ And then, the code makes the main function where the code made by user executes.
 In this code, the user makes the simple output "Hello, World!" through printf.
 
 **2. What programming elements are used in the code (e.g., comments)?**
-A. The code contains several elements written below. 1) Comment: Two comment types are used in the code.
+A. The code contains several elements written below.
+⋅⋅⋅1) Comment: Two comment types are used in the code.
 a. //: This makes the single-line comment.
 b. /_~_/: Whatever you write inside, this turns into a comment. 2) Preprocessor Directive: As I mentioned above, the code includes "stdio.h" file. 3) Function Definition: The code includes main function. This makes the code to excute. 4) Function: The code makes output displaying "Hello, World!" through printf.
 
