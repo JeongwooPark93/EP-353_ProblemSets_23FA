@@ -13,7 +13,7 @@
 **2. What programming elements are used in the code (e.g., comments)?** <br />
 **A.**  The code contains several elements written below. <br />
 &nbsp;&nbsp;&nbsp;&nbsp; 1) Comment: Two comment types are used in the code. <br />
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. ***//***: This makes the single-line comment. <br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. //: This makes the single-line comment. <br />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. /* ~ */: Whatever you write inside, this turns into a comment.  <br />
 &nbsp;&nbsp;&nbsp;&nbsp; 2) Preprocessor Directive: As I mentioned above, the code includes "_stdio.h_" file. <br />
 &nbsp;&nbsp;&nbsp;&nbsp; 3) Function Definition: The code includes main function. This makes the code to excute. <br />
