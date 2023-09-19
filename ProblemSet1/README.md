@@ -13,7 +13,7 @@ In this code, the user makes the simple output "Hello, World!" through printf. <
 **2. What programming elements are used in the code (e.g., comments)?** <br />
 A. The code contains several elements written below. <br /> 1) Comment: Two comment types are used in the code. <br />
 a. //: This makes the single-line comment. <br />
-b. /_~_/: Whatever you write inside, this turns into a comment. <br /> 2) Preprocessor Directive: As I mentioned above, the code includes "stdio.h" file. 3) Function Definition: The code includes main function. This makes the code to excute. 4) Function: The code makes output displaying "Hello, World!" through printf.
+b. /_~_/: Whatever you write inside, this turns into a comment. <br /> 2) Preprocessor Directive: As I mentioned above, the code includes "stdio.h" file. <br /> 3) Function Definition: The code includes main function. This makes the code to excute. <br /> 4) Function: The code makes output displaying "Hello, World!" through printf.
 
 **3. What is the result of compiling and running the program?** <br />
 A. When you compile the .c file, you will get the computer-readable binary code file. <br />
