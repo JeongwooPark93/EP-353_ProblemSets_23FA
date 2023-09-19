@@ -6,9 +6,9 @@
 
 **1. What is the code doing?** <br />
 **A.**  First, it calls the stdio header library through the 12th line. <br />
-    It relates with input and output function. <br />
-    And then, the code makes the main function where the code made by user executes. <br />
-    In this code, the user makes the simple output "Hello, World!" through printf. <br />
+&nbsp;&nbsp; It relates with input and output function. <br />
+&nbsp;&nbsp; And then, the code makes the main function where the code made by user executes. <br />
+&nbsp;&nbsp; In this code, the user makes the simple output "Hello, World!" through printf. <br />
 
 **2. What programming elements are used in the code (e.g., comments)?** <br />
 **A.**  The code contains several elements written below. <br />
