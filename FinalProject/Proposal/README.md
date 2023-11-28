@@ -33,4 +33,4 @@
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research?
 
-> First, I have to study how to make visualized plugin with Juce. And then, I should learn how to build Graphic Analyzer.
+> First, I have to study how to make visualized plugin with Juce. And then, I should learn how to build Graphic Analyzer while making Oscillators and Key controllers.
